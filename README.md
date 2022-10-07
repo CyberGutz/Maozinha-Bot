@@ -2,6 +2,6 @@
 
 Bot assistente pra discord.
 
-<img src= "https://discord.com/channels/1027893019283836929/1027893020365946924/1027893142822846474">
+<img src= "https://cdn.discordapp.com/attachments/1027893020365946924/1027893142487306270/maozinha.gif">
 
 Nada por aqui, por enquanto.
